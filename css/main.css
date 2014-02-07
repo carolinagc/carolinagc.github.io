@@ -1,0 +1,22 @@
+html {
+  overflow-y: scroll;
+  -webkit-font-smoothing: antialiased;
+}
+html, body {
+  background: #fff;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: large/1.556 "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  word-spacing: 0.1em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+pre{
+
+ max-width: 960px;
+}
