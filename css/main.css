@@ -5,18 +5,28 @@ html {
 html, body {
   background: #fff;
   color: #000;
-  margin: 0;
+  margin: 500;
   padding: 0;
 }
 body {
-  font: large/1.556 "Libertine", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  font:12px/1.4 Helvetica;
   word-spacing: 0.1em;
   max-width: 960px;
   margin: 0 auto;
   padding-bottom: 2em;
 }
 
+
 #container{
 
+}
+
+p, ul, ol {
+  font-size: large;
+  margin: 1.556em 0;
+}
+
+pre{
  max-width: 960px;
+ margin: 100 auto;
 }
