@@ -35,3 +35,15 @@ img{
     padding: 20px;
     margin-left: -20px;
 }
+
+.whiteRightPointingIndex:after {
+    content: "☞";
+}
+
+
+.note {
+    margin-bottom: 3.112em;
+    margin-left: 4.94em;
+    margin-right: 4.94em;
+    margin-top: 3.112em;
+}
