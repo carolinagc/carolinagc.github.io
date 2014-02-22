@@ -42,15 +42,11 @@ img{
 }
 
 .inner {
-    background-clip: border-box;
+    border: 1px;
     background-color: #FFFFFF;
-    margin-bottom: 0;
-    margin-left: 0;
     margin-right: 15px;
     margin-top: 0;
-    min-height: 253px;
     padding-bottom: 1.75em;
-    padding-left: 0;
     padding-right: 154px;
     padding-top: 0;
 }
