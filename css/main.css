@@ -15,12 +15,6 @@ body {
   margin: 0 auto;
   padding-bottom: 2em;
 }
-
-
-#container{
-
-}
-
 p, ul, ol {
   font-size: large;
   margin: 1.556em 0;
@@ -40,10 +34,25 @@ img{
     content: "☞";
 }
 
-
 .note {
     margin-bottom: 3.112em;
     margin-left: 4.94em;
     margin-right: 4.94em;
     margin-top: 3.112em;
+}
+
+.inner {
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 15px;
+    margin-top: 0;
+    min-height: 253px;
+    padding-bottom: 1.75em;
+    padding-left: 0;
+    padding-right: 154px;
+    padding-top: 0;
+}
+
 }
