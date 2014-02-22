@@ -34,6 +34,10 @@ img{
     content: "☞";
 }
 
+.tip-box:before{
+    content: "✍;";
+}
+
 .note {
     margin-bottom: 3.112em;
     margin-left: 4.94em;
