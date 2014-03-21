@@ -45,7 +45,7 @@ img{
 }
 
 .note {
-    margin-bottom: 3.112em;
+    margin-bottom: 2em;
     margin-left: 3em;
     margin-right: 3em;
     margin-top: 2em;
@@ -58,7 +58,7 @@ img{
     background-color: #FFFFFF;
     margin-right: 5px;
     margin-top: 0;
-    padding-bottom: 1em;
+/*    padding-bottom: 1em;*/
 /*    padding-right: 154px;*/
     padding-top: 0;
 }
